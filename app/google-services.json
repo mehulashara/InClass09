@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010051373386",
+    "project_id": "fir-project-ae3a8",
+    "storage_bucket": "fir-project-ae3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010051373386:android:9b38052cb00e9461d189b3",
+        "android_client_info": {
+          "package_name": "edu.uncc.inclass09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010051373386-jjhigs0nufi7kbu3epbmq6t6i9o6ovsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItE5o3dq5maF1LXM288EL5ng9xGzmH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010051373386-jjhigs0nufi7kbu3epbmq6t6i9o6ovsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
